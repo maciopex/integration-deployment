@@ -6,7 +6,7 @@
   <artifactId>tomcat</artifactId>
   <packaging>war</packaging>
   <version>0.0.1</version>
-  <url>http://maven.apache.org</url>
+  
 
   <properties>
     <!--Versions 3.1.1.RELEASE or higher are supported-->
